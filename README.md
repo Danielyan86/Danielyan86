@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Sheldon Yan
 - 👀 I’m interested in Automaiton test, Python, CICD, training etc.
-- 🌱 I’m currently learning langchain.
-- 💞️ I’m looking to collaborate on training IT technology.
+- 🌱 I’m currently learning AI.
+- 💞️ I’m looking to further my education
 - 📫 How to reach me - linkedin: [xiaodongyan](https://www.linkedin.com/in/yan-xiaodong/)
 
 <!---
